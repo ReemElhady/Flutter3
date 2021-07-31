@@ -1,0 +1,4 @@
+enum BlockCounter{
+  increment,
+  decrement
+}
